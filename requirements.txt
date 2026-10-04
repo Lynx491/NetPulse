@@ -1,0 +1,13 @@
+flet
+flet-charts
+flet-desktop
+cryptography
+fastapi
+uvicorn
+aiohttp
+gputil
+psutil
+sqlmodel
+dotenv
+asyncio
+asyncmy
